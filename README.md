@@ -11,7 +11,7 @@ I'm a Principal Cloud Solution Architect at Microsoft, focusing on Data and AI. 
 ## My GitHub Stats
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereknguyenio&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyenio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dereknguyenio&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dereknguyenio&theme=dracula)
 
 ## Current Projects
 - **Microsoft Fabric Deployment Guide**: A comprehensive guide for deploying Microsoft Fabric.
