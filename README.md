@@ -28,5 +28,5 @@ I'm a Principal Cloud Solution Architect at Microsoft, focusing on Data and AI. 
 
 ## Support My Work
 If you like what I do, consider buying me a coffee:
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dereknguyen)
 
