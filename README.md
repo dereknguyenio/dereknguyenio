@@ -9,18 +9,17 @@ I'm a Principal Cloud Solution Architect at Microsoft, focusing on Data and AI. 
 - ⚡ Fun fact: I love to smoke Texas BBQ and create content about it online. Also actively invest in the stock market.
 
 ## My GitHub Stats
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereknguyenio&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyenio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dereknguyenio&theme=dracula)
 
 ## Current Projects
 - **Microsoft Fabric Deployment Guide**: A comprehensive guide for deploying Microsoft Fabric.
 - **Data and AI Solutions**: Building innovative solutions using Azure Data and AI services.
 
 ## Contact Me
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 🐦 [Twitter](https://twitter.com/yourusername)
+- 📫 How to reach me: [dereknguyen@microsoft.com](mailto:dereknguyen@microsoft.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/derek-nguyen/)
 
 ## Achievements
 - 🏆 Principal Cloud Solution Architect at Microsoft
