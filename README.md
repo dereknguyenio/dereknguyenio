@@ -1,4 +1,4 @@
-# Hello world, I'm Derek Nguyen 👋
+# Hello world, I'm Derek 👋
 
 ## About Me
 I'm a Principal Cloud Solution Architect at Microsoft, focusing on Data and AI. I have extensive experience in designing and implementing cloud solutions that drive business transformation and innovation.
